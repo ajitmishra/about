@@ -1,47 +1,29 @@
-#header1-c H1 {
-  font-size: 36px;
-}
-#header1-c P {
-  font-size: 19px;
-}
-#content1-4 DIV {
-  color: #00a885;
-}
-#social-buttons2-6 .mbr-header__text {
-  color: #ffffff;
-}
-#contacts1-8 P {
-  color: #ffffff;
-}
-#contacts1-8 STRONG {
-  font-size: 24px;
-}
-#social-buttons1-7 .mbr-header__text {
-  color: #ffffff;
-}
-#footer1-a P {
-  color: #ffffff;
-}
-#dropdown-menu-d .hide-buttons [data-button] {
+#dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
 }
-#dropdown-menu-d .navbar-brand a {
-  font-size: 25px;
+#dropdown-menu-0 .navbar-brand a {
+  font-size: 30px;
 }
-#dropdown-menu-d .nav .link,
-#dropdown-menu-d .dropdown-item {
-  font-size: 1em;
-  color: #ffffff;
+#dropdown-menu-0 .nav .link,
+#dropdown-menu-0 .dropdown-item {
+  font-size: 1.4em;
+  color: #000000;
 }
-#dropdown-menu-d .navbar,
-#dropdown-menu-d .dropdown-menu {
-  background: #27aae0;
+#dropdown-menu-0 .navbar,
+#dropdown-menu-0 .dropdown-menu {
+  background: #fff8e0;
 }
-#dropdown-menu-d .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-d .dropdown-menu a:hover,
-#dropdown-menu-d .dropdown-menu a:focus {
-  background: #1e9fd4;
+#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-0 .dropdown-menu a:hover,
+#dropdown-menu-0 .dropdown-menu a:focus {
+  background: #fff3cc;
 }
-#dropdown-menu-d .navbar-toggler {
-  color: #ffffff;
+#dropdown-menu-0 .navbar-toggler {
+  color: #000000;
+}
+#header4-2 P {
+  color: #fff8e0;
+}
+#header4-2 H1 {
+  font-size: 60px;
 }
